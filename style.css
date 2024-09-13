@@ -1,5 +1,6 @@
 body {
   background-color: lightgrey;
-  color: blue;
-  font: Serif;
+}
+h1 {
+font-family: Serif;
 }
