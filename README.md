@@ -1,4 +1,8 @@
 # JokatinGames.github.io
-<body>william jonathans first web site
+<head>
+  <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+  william jonathans first web site
 <br> <a href = "https://www.google.com"> to google </a> 
 </body>
