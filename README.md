@@ -1,5 +1,7 @@
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
 
 <body>
-  william jonathans first web site
-<br> <a href = "https://www.google.com"> to google </a> 
+<h1>This is a heading</h1>
 </body>
