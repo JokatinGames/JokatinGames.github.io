@@ -2,5 +2,8 @@ body {
   background-color: lightgrey;
 }
 h1 {
-font-family: Comic Sans;
+font: Comic Sans;
+}
+h2 {
+font: Apple Chancery;
 }
