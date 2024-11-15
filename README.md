@@ -6,7 +6,7 @@
 Jokatin Projects:
 </h1>
 <h2>
-<a href = "https://jokatin.itch.io"> main page </a>
+<a href = "https://google.com"> main page </a>
 </h2>
 <h3>
 <a href = "https://jokatin.itch.io/paper-story"> paper story </a>  <-- my main project 
